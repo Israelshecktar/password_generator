@@ -33,4 +33,4 @@ This project is open source, under the [MIT License](https://opensource.org/lice
 
 Remember, security is a mindset not a product. Stay secure, stay safe! 💪
 
-![Stay Secure Meme](https://example.com/path/to/meme.jpg)
+![Stay Secure Meme](https://imgflip.com/i/5ikalt)
